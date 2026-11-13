@@ -27,11 +27,9 @@ A **Laravel full-stack app** that helps companies with limited parking recommend
 Designed a Figma SaaS dashboard unifying cloud storage, file management, deployment, and analytics, featuring mapped information architecture and a guided first-time setup flow.
 `Figma` `UI/UX` `Information Architecture` `Onboarding`
 
-### 🏭 [Smart Enterprise Asset Management & Predictive Maintenance](https://github.com/ChamodaManamperi/smart-enterprise-Asset-Management)
-*(Group project, in progress)*
+### 🏭 [Smart Enterprise Asset Management & Predictive Maintenance](https://github.com/ChamodaManamperi/smart-enterprise-Asset-Management)*(Group project, in progress)*
 Designed and deployed cloud infrastructure for scalable data ingestion and real-time predictive maintenance. Engineered automated pipelines to store, process, and deliver telemetry data for machine learning model inference.
 `Cloud Infrastructure` `Data Pipelines` `Automation` `ML Inference`
----
 
 ## 🛠 Skills
 
